@@ -1,8 +1,0 @@
-,id,id_unidade,cpf,dt_contratacao,nome_completo,email,senha,cargo,telefone
-0,1,1,12345678912,2023-01-15,Rafael Henrique Silva,rafael.silva@eitruck.com,$2a$10$Kj99UIECJuueNZ26mnARaOaaVzotMYIa5s.og7KNxkClazjgaixsS,Analista Sênior,11987654321
-1,2,2,23456789023,2023-02-20,Camila Rodrigues Lima,camila.lima@eitruck.com,$2a$10$Kj99UIECJuueNZ26mnARaOaaVzotMYIa5s.og7KNxkClazjgaixsS,Analista Pleno,11976543210
-2,4,4,45678901245,2023-04-05,Fernanda Oliveira Costa,fernanda.costa@eitruck.com,$2a$10$Kj99UIECJuueNZ26mnARaOaaVzotMYIa5s.og7KNxkClazjgaixsS,Coordenador de Análises,11954321098
-3,9,1,45798997822,2025-10-08,Teste Quinto,teste@gmail.com,$2a$10$TxLs1ZOB7og0x8FC/Er6/Oyn85vJaqH.9u7Jc4rw.NOwrH9Zx0rTy,Gerente de Análise,11981063737
-4,5,5,56789012356,2023-05-12,Gabriel Alves Souza,gabriel.souza@eitruck.com,$2a$10$Kj99UIECJuueNZ26mnARaOaaVzotMYIa5s.og7KNxkClazjgaixsS,Gerente de Análise,11943210987
-5,12,2,48506073812,2025-09-30,Teste Quinto,teste111@gmail.com,$2a$10$Vbek84RL00BMbz5BWdw3muKSnaybN8xRkL7YAf2Zs6h/9mRYtrbrO,Gerente de Análise,11932109876
-6,13,2,48506073811,2025-10-14,Teste Quintop,igor.quinto@eitruck.com,$2a$10$OS9ulX3.lHV0WXeqcL31zutMp31QT2gnlNcUib8FjB4jwwlVqWh7C,Analista Local,11980605705
