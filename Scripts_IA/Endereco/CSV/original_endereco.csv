@@ -1,0 +1,6 @@
+,id,cep,rua,numero,bairro,cidade,estado,pais
+0,1,01310100,Avenida Paulista,1578,Bela Vista,São Paulo,SP,Brasil
+1,2,04038001,Rua Vergueiro,3185,Vila Mariana,São Paulo,SP,Brasil
+2,4,08260400,Rua Conselheiro Carrão,2457,Vila Carrão,São Paulo,SP,Brasil
+3,5,03162000,Rua da Mooca,1234,Mooca,São Paulo,SP,Brasil
+4,3,05407000,Avenida Faria Lima,2232,Pinheiros,São Paulo,RJ,Brasil
