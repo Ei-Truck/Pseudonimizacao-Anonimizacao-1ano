@@ -1,4 +1,5 @@
 .env
 
 **/csv/**
-**/Saidas_Banco/**
+**/Dados_Originais/** 
+
