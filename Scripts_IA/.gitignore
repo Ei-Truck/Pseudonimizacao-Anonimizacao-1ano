@@ -1,3 +1,4 @@
 .env
 
-**/csv_imagem/**
+**/csv/**
+**/Saidas_Banco/**
