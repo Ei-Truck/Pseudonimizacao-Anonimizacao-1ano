@@ -1,4 +1,4 @@
-# Pseudonimização e Anonimização de dados do Ei Truck
+# Pseudonimização e Anonimização de dados - Ei Truck
 
 O diretório **`Pseudonimizacao-Anonimizacao-1ano`** reúne todos os materiais relacionados à etapa de **Inteligência Artificial do projeto Ei Truck**, incluindo códigos, memoriais descritivos, arquivos CSV e imagens geradas a partir da base de dados utilizada para o armazenamento dos dados anonimizados.
 
@@ -60,6 +60,48 @@ Para facilitar a validação dos dados anonimizados e pseudonimizados:
 - Configure o arquivo `.env` com as variáveis de ambiente necessárias para conexão com o banco de dados, caso o notebook dependa de acesso externo.  
 - Todos os dados sensíveis foram tratados conforme as diretrizes de **anonimização e pseudonimização de dados pessoais** definidas pelo grupo Ei Truck.
 
+---
+
+## Instalação
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone https://github.com/Ei-Truck/Pseudonimizacao-Anonimizacao-1ano.git
+    ```
+2.  **Entre no diretório do projeto:**
+    ```bash
+    cd Pseudonimizacao-Anonimizacao-1ano
+    ```
+---
+
+## Estrutura de Pastas
+```
+Pseudonimizacao-Anonimizacao-1ano/
+├── Scripts_IA/
+│   ├── Administrador/
+│   │   ├── Saidas_Banco/
+│   │   │   ├── saida.png
+│   │   │   ├── saida2.png
+│   │   │   └── saida3.png
+│   │   └── administrador.ipynb
+│   ├── Analista/
+│   │   ├── Saidas_Banco/
+│   │   │   ├── saidaAnalista.png
+│   │   │   └── saidaContinuacao.png
+│   │   └── analista.ipynb
+│   ├── Endereco/
+│   │   ├── Saidas_Banco/
+│   │   │   └── saidaEndereco.png
+│   │   └── endereco.ipynb
+│   ├── Memoriais/
+│   │   ├── MemorialCriptografia.docx
+│   │   ├── MemorialPrompt.docx
+│   │   └── MemorialScript.docx
+│   └── LICENSE
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 ---
 
 ## Autores
