@@ -1,10 +1,10 @@
-# 🧠 Scripts_IA – Organização das Entregas de Inteligência Artificial (Ei Truck)
+# Pseudonimização e Anonimização de dados do Ei Truck
 
-O diretório **`Scripts_IA`** reúne todos os materiais relacionados à etapa de **Inteligência Artificial do projeto Ei Truck**, incluindo códigos, memoriais descritivos, arquivos CSV e imagens geradas a partir da base de dados utilizada para o armazenamento dos dados anonimizados.
+O diretório **`Pseudonimizacao-Anonimizacao-1ano`** reúne todos os materiais relacionados à etapa de **Inteligência Artificial do projeto Ei Truck**, incluindo códigos, memoriais descritivos, arquivos CSV e imagens geradas a partir da base de dados utilizada para o armazenamento dos dados anonimizados.
 
 ---
 
-## 🗂️ Estrutura Geral
+## Estrutura Geral
 
 Além dos arquivos padrão do GitHub e do **arquivo de ambiente (.env)**, a pasta `Scripts_IA` está organizada em **quatro subpastas principais**:
 
@@ -17,25 +17,25 @@ Além dos arquivos padrão do GitHub e do **arquivo de ambiente (.env)**, a past
 
 ---
 
-## 🧱 Estrutura Interna das Pastas
+## Estrutura Interna das Pastas
 
 As pastas **Administrador**, **Analista** e **Endereco** possuem a mesma estrutura interna:
 
 | Item | Conteúdo |
 |------|-----------|
-| 🧩 **Notebook_nome_tabela.ipynb** | Script principal em Jupyter Notebook com a lógica de anonimização/pseudonimização. |
-| 📁 **/csv/** | Contém dois arquivos CSV — um com os dados originais e outro com os dados pseudonimizados (ambos no `.gitignore`). |
-| 🖼️ **/imagens/** | Capturas de tela mostrando a saída do banco de dados com os resultados do processo. |
+| **Notebook_nome_tabela.ipynb** | Script principal em Jupyter Notebook com a lógica de anonimização/pseudonimização. |
+| **/csv/** | Contém dois arquivos CSV — um com os dados originais e outro com os dados pseudonimizados (ambos no `.gitignore`). |
+| **/imagens/** | Capturas de tela mostrando a saída do banco de dados com os resultados do processo. |
 
 A pasta **Memoriais/** contém três documentos Word:
 
-- 📘 *Memorial de Prompt*  
-- 📙 *Memorial de Script*  
-- 📗 *Memorial Extra de Criptografia*  
+- *Memorial de Prompt*  
+- *Memorial de Script*  
+- *Memorial Extra de Criptografia*  
 
 ---
 
-## 🔒 Dados Originais e Verificação
+## Dados Originais e Verificação
 
 Existe também a pasta **`Dados_Originais/`**, incluída no `.gitignore` e enviada **somente à professora** para conferência dos dados.  
 Essa pasta contém:
@@ -45,7 +45,7 @@ Essa pasta contém:
 
 ---
 
-## 🧾 Visualização dos Resultados
+## Visualização dos Resultados
 
 Para facilitar a validação dos dados anonimizados e pseudonimizados:
 
@@ -54,7 +54,7 @@ Para facilitar a validação dos dados anonimizados e pseudonimizados:
 
 ---
 
-## 💡 Observações Finais
+## Observações Finais
 
 - Certifique-se de possuir as dependências do Python instaladas (pandas, numpy, faker, etc.).  
 - Configure o arquivo `.env` com as variáveis de ambiente necessárias para conexão com o banco de dados, caso o notebook dependa de acesso externo.  
@@ -62,7 +62,7 @@ Para facilitar a validação dos dados anonimizados e pseudonimizados:
 
 ---
 
-## ✨ Autores
+## Autores
 
 Equipe **Ei Truck**  
 Desenvolvido como parte do **projeto interdisciplinar de análise e automação de telemetria e anonimização de dados.**
