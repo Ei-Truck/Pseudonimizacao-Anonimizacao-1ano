@@ -25,7 +25,7 @@ As pastas **Administrador**, **Analista** e **Endereco** possuem a mesma estrutu
 |------|-----------|
 | **Notebook_nome_tabela.ipynb** | Script principal em Jupyter Notebook com a lógica de anonimização/pseudonimização. |
 | **/csv/** | Contém dois arquivos CSV — um com os dados originais e outro com os dados pseudonimizados (ambos no `.gitignore`). |
-| **/imagens/** | Capturas de tela mostrando a saída do banco de dados com os resultados do processo. |
+| **/Saidas_Banco/** | Capturas de tela mostrando a saída do banco de dados com os resultados do processo. |
 
 A pasta **Memoriais/** contém três documentos Word:
 
