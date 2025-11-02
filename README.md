@@ -65,4 +65,4 @@ Para facilitar a validação dos dados anonimizados e pseudonimizados:
 ## Autores
 
 Equipe **Ei Truck**  
-Desenvolvido como parte do **projeto interdisciplinar de análise e automação de telemetria e anonimização de dados.**
+Desenvolvido como parte do **projeto interdisciplinar de análise e automação de telemetria de transportes**.
